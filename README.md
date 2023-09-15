@@ -18,9 +18,6 @@ Currently working on a project that'll never see the daylight.
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=chethaslp&icon=0&color=0)](https://visitcount.itsvg.in)
 
