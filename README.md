@@ -1,8 +1,8 @@
-# 💫 About Me:
+#  About Me:
 Currently working on a project that'll never see the daylight.
 
 
-## 🌐 Socials:
+##  Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/im.clp) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@yt_clp) 
 
 # 💻 Tech Stack:
@@ -18,10 +18,9 @@ Currently working on a project that'll never see the daylight.
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=chethaslp&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=chethaslp&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
